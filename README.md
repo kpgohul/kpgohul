@@ -1,47 +1,51 @@
-# 👋 Hi there, I'm Gohul!
+# 👋 Hey, I'm Gohul!
 
-I'm a passionate backend developer with a strong interest in building scalable microservice-based applications using Java and Spring Boot. I enjoy exploring clean architecture and solving complex problems through efficient code.
+I'm a backend developer who enjoys building robust, secure, and scalable microservices using **Java** and **Spring Boot**. I’m curious by nature, a constant learner, and someone who finds joy in solving problems and understanding how things work under the hood.
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
+
 - **Languages & Frameworks:** Java, Spring Boot, Spring Security
 - **Database:** PostgreSQL, MySQL
-- **Tools & DevOps:** Git, GitHub, Docker, Keycloak
-- **Architecture:** REST APIs, Microservices
+- **Authentication:** OAuth2, Keycloak
+- **Dev & Tools:** Git, GitHub, Docker
 
 ---
 
-## 🧠 Problem-Solving Interests
-I love solving challenging problems, especially in areas like:
+## 🧩 Problem-Solving Interests
+
+I actively practice and explore challenges in:
+
 - Dynamic Programming (DP)
-- Recursion
-- Maze-based Backtracking Problems
-- Logical Puzzles & Algorithmic Thinking
+- Recursion & Backtracking
+- Maze-based problems
+- Logical puzzles and algorithm optimization
 
 ---
 
-## 🌱 Currently Exploring / Yet to Learn
-I'm always eager to grow and expand my skillset. Currently on my learning path:
-- **Event-Driven Architecture**
-- **Microservice Fault Tolerance Patterns**
-- **Linux Command Line & Bash Scripting**
-- **Kubernetes & Container Orchestration**
-- **AWS Cloud:**  
-  - Cloud Practitioner  
-  - AWS Developer Associate  
-  - Solutions Architect (Level 2)
+## 📚 On My Learning Radar
+
+I'm currently diving into or planning to explore:
+
+- Event-Driven Architecture  
+- Microservice Fault Tolerance Patterns  
+- Linux & Shell Scripting  
+- Kubernetes & Cloud-Native Tools  
+- AWS Cloud (Cloud Practitioner, Developer Associate, Solutions Architect)
 
 ---
 
-## 🎯 Personal Development Goals
-Beyond tech, I’m working to grow in other areas that shape a well-rounded individual:
-- 🎤 Public Speaking
-- 📝 Content Creation & Storytelling
-- 🏏 Playing & Following Cricket
+## 🌟 Beyond Code
+
+I strongly believe in becoming a well-rounded individual. Alongside tech, I’m working on:
+
+- 🗣️ Public Speaking  
+- ✍️ Content Creation & Storytelling  
+- 🏏 Playing and following Cricket  
 
 ---
 
-### 🔗 Let's Connect!
-Feel free to connect or reach out to me if we share similar interests.
+> **"No matter how much knowledge or skill you have, if you can’t communicate well, people won’t recognize your efforts."**
 
+---
