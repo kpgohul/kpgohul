@@ -6,7 +6,7 @@ I'm a backend developer who enjoys building robust, secure, and scalable microse
 
 ## 🛠️ Tech Stack
 
-- **Languages & Frameworks:** Java, Spring Boot, Spring Security
+- **Languages & Frameworks:** Java, Spring Boot, Spring Security, Spring Data JPA
 - **Database:** PostgreSQL, MySQL
 - **Authentication:** OAuth2, Keycloak
 - **Dev & Tools:** Git, GitHub, Docker
